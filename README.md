@@ -1,3 +1,5 @@
+> This is a fork of [hku-mars/FAST_LIO](https://github.com/hku-mars/FAST_LIO). All credit goes to the original authors; the only changes here are fixes to make it build/run with ROS 2 Lyrical.
+
 > ROS2 Fork repo maintainer: [Ericsiii](https://github.com/Ericsii)
 
 ## Related Works and Extended Application
